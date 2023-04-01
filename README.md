@@ -5,7 +5,7 @@ Step-wise procedure to translate a problem statement into class diagram
 
 ---
 ### Step 1). Identify Classes
-Extract nouns in the problem statement.
+Extract nouns in the problem statement. # ask myself how to do that?
 
 Develop a graphic **editor** that can draw different geometric **shapes** such as **line**, **circle** and **triangle**. **User** can select, move or rotate a **shape**. To do so, **editor** provides **user** with a **menu** listing different **commands**. Individual **shapes** can be grouped together and can behave as a single **shape**. 
 
